@@ -35,9 +35,9 @@ Los resultados se ven a continuación:
 - Java 17
 - Patron de Arquitectura MVC.
 - Windows Builder.
-- Uso de Funciones Lambda para realizar las conversiones de temperatura.
-- Uso de Colecciones (Arrays, Listas).
-- Uso de Look and Feel.
+- Funciones Lambda para realizar las conversiones de temperatura.
+- Colecciones (Arrays, Listas).
+- Look and Feel.
 - Restricción de caracteres alfabéticos en el campo adecuado.
 
 <h2>🔼 Espacio para mejoras 📈</h2>
